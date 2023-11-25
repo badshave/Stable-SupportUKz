@@ -1,0 +1,360 @@
+#EXTINF:-1 tvg-id="BTSPOR1" tvg-name="[UK] TNT Sports 1" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumur0NjD_T2czTF7Ra1clB_gJi33mU_Ykg5h1S0au1CrPQ.png" group-title="UK",[UK] TNT Sports 1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12924
+#EXTINF:-1 tvg-id="BTSP2HD" tvg-name="[UK] TNT Sports 2" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLegzcPjkMYs_V3VFfkZJLhQzM7WC6X-L5sKPI7O1rLuA.png" group-title="UK",[UK] TNT Sports 2
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12925
+#EXTINF:-1 tvg-id="BTSP3HD" tvg-name="[UK] TNT Sports 3" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumshPSBxpmmnOM4Mhe6U-i3QdbTY_TXlc3xdfq6c3SoCaQ.png" group-title="UK",[UK] TNT Sports 3
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12926
+#EXTINF:-1 tvg-id="ESPNUK" tvg-name="[UK] TNT Sports 4" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhgRY4Mr-_XZomf6LBfquUOr5R2kLD1mofVjmNcUuXLGvw.png" group-title="UK",[UK] TNT Sports 4
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12927
+#EXTINF:-1 tvg-id="EIRSP1H" tvg-name="[SPO] Eir Sport 1" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqQJahY5-L1s_w13Mz4hBZZrzoc5K_P5R_5MWtw02Q-rQ.png" group-title="UK",[SPO] Eir Sport 1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12932
+#EXTINF:-1 tvg-id="EIRSP2H" tvg-name="[SPO] Eir Sport 2" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1j54tnTVHgvU9PVXlnRPGgkJdEVE19tdcVwBeg7CuBROfjqC-8urPL9u72s2d4ctH5kkz4ynFSGvPHu1vI30gqo.png" group-title="UK",[SPO] Eir Sport 2
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12933
+#EXTINF:-1 tvg-id="LFCEUHD" tvg-name="[SPO] LFC TV" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumvlRQbAx8Fi2cB74WIReQJ7JOZBKxKzJlDvupt9OM1BQg.png" group-title="UK",[SPO] LFC TV
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12963
+#EXTINF:-1 tvg-id="MUTV" tvg-name="[SPO] MUTV" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszUj5gUlzs3uAbJLZHlVANJROxLYZB3OUct1MWnDMZDWw.png" group-title="UK",[SPO] MUTV
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12964
+#EXTINF:-1 tvg-id="PRMSHDV" tvg-name="[UK] Premier Sport 1" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrEFYa-f_m9fiN7ln2Qn-UITrWsudAjNEXCLgZpxjUpwg.png" group-title="UK",[UK] Premier Sport 1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12976
+#EXTINF:-1 tvg-id="PRSP2UK" tvg-name="[UK] Premier Sport 2" tvg-logo="http://redmonkeytv.com:8080/images/153a30c22e343728776e650ea0a79589.png" group-title="UK",[UK] Premier Sport 2
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12977
+#EXTINF:-1 tvg-id="SSPOFBH" tvg-name="[UK] Sky Sports Football (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrhm80guVfoDWT6Mh0qadRFrt6gNHplx1v-eTfHi02mmA.png" group-title="UK",[UK] Sky Sports Football (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12982
+#EXTINF:-1 tvg-id="SSPOF1H" tvg-name="[UK] Sky Sports F1 (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJery_mDHX3uAJ_vinb240ofUDeL-WpQJR9r9vqoIr99A.png" group-title="UK",[UK] Sky Sports F1 (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12987
+#EXTINF:-1 tvg-id="SSPOMXH" tvg-name="[UK] Sky Sports Mix (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqtZUbhMunmt0ipxCUzXUsJtvVi7RNX4MtaQAkofu8XBg.png" group-title="UK",[UK] Sky Sports Mix (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12990
+#EXTINF:-1 tvg-id="VM1IREH" tvg-name="[UK] Virgin Media 1" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_TpvHS7UJH7ddQNVOsKBrVvvXP9oSwnVcXfan5qZjj8lIxhpH4qHbfLJz5zofvWI1nQ.png" group-title="UK",[UK] Virgin Media 1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27114
+#EXTINF:-1 tvg-id="VM2IREH" tvg-name="[UK] Virgin Media 2" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1j54tnTVHgvU9PVXlnRPGgnD-SdCFVmisf5V6pUViGAHXtPgzI7PAHhqJbF-qkotz8eoxFwSkA8nTZ67xi7YQXo.png" group-title="UK",[UK] Virgin Media 2
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27115
+#EXTINF:-1 tvg-id="VM3IREH" tvg-name="[UK] Virgin Media 3" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_TrwCX8pln2dECz6p7dLvxrjXvgfN3OQ2PyDhrId0cdsKehPMK-y2HPTv5PCsxbWZSs.png" group-title="UK",[UK] Virgin Media 3
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27116
+#EXTINF:-1 tvg-id="4MUSIC" tvg-name="[UK] 4Music *" tvg-logo="http://redmonkeytv.com:8080/images/08b266ad0fcda3fc32e1558df02f3d40.png" group-title="UK",[UK] 4Music *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27117
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="[UK] Paramount" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_Tpv5AvDI2zrmNUnd82u91--Xew6Qo6ss5axh4cypsiVBVmC_wm5uMtWDzUD1kBaGKo.png" group-title="UK",[UK] Paramount
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27119
+#EXTINF:-1 tvg-id="5ST" tvg-name="[UK] 5 Star *" tvg-logo="http://redmonkeytv.com:8080/images/4cee18ce8fe54e239cbf434b4bc0fc7b.png" group-title="UK",[UK] 5 Star *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27120
+#EXTINF:-1 tvg-id="ALIBIHD" tvg-name="[UK] Alibi *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Rc15TsHz4Htk0g7Lfl9Lq1kQtVgx3YMjz7gAwg5GUOQw.png" group-title="UK",[UK] Alibi *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27122
+#EXTINF:-1 tvg-id="AMCME" tvg-name="[UK] AMC *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumuQFNMbim9FOP6_Oo1vIadr.png" group-title="UK",[UK] AMC *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27123
+#EXTINF:-1 tvg-id="ANIPLN" tvg-name="[UK] Animal Planet *" tvg-logo="http://redmonkeytv.com:8080/images/1c5deb8dd5c5bfea7a1cf1838aca567d.png" group-title="UK",[UK] Animal Planet *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27125
+#EXTINF:-1 tvg-id="SSPORAC" tvg-name="[UK] Sky sports racing (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgAbIXCFaPHiiLC9SerT98gQ7yw3K4lEG09LQvJTFQVLw.png" group-title="UK",[UK] Sky sports racing (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27126
+#EXTINF:-1 tvg-id="BBC4" tvg-name="[UK] BBC 4 *" tvg-logo="http://redmonkeytv.com:8080/images/dd35b62fb1e914b3d7fcc342aafe936a.png" group-title="UK",[UK] BBC 4 *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27128
+#EXTINF:-1 tvg-id="BBCSCOT" tvg-name="[UK] BBC Scotland" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrKizLAn9f2xUX_mD85APdV1T3_CuUjne0ilSdefu5Xiw.png" group-title="UK",[UK] BBC Scotland
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27129
+#EXTINF:-1 tvg-id="BBCPARL" tvg-name="[UK] BBC Parliament *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxg_Bcq08nM94OJdEaHUBCCwOMGYOqKQCUMJ6d45N-egg.png" group-title="UK",[UK] BBC Parliament *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27133
+#EXTINF:-1 tvg-id="BBC3" tvg-name="[UK] BBC 3" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsywi8Rj2X5e_x8rVny9W3ZvDMtMJuZ11JwIMwlGfT_BcA.png" group-title="UK",[UK] BBC 3
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27134
+#EXTINF:-1 tvg-id="BBCWNST" tvg-name="[UK] BBC News *" tvg-logo="http://redmonkeytv.com:8080/images/d4986ed4020627bd6a82bd9ac64a4105.png" group-title="UK",[UK] BBC News *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27136
+#EXTINF:-1 tvg-id="BETHDP" tvg-name="[UK] BET *" tvg-logo="http://redmonkeytv.com:8080/images/255006998500439cd8b84b1a7a84c960.png" group-title="UK",[UK] BET *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27137
+#EXTINF:-1 tvg-id="BOOMRG" tvg-name="[UK] Boomerang *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswqxdg89xvME4DmaF6p3FvbHdgkXE7tPFoIxvAJD0FVxQ.png" group-title="UK",[UK] Boomerang *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27138
+#EXTINF:-1 tvg-id="CRTONHD" tvg-name="[UK] Cartoon Network *" tvg-logo="http://redmonkeytv.com:8080/images/04f7444ae2a04f9c492f5cfcfb885fdc.png" group-title="UK",[UK] Cartoon Network *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27140
+#EXTINF:-1 tvg-id="CARNITO" tvg-name="[UK] Cartoonito *" tvg-logo="http://redmonkeytv.com:8080/images/e312fe44a16950aa1f23d5ab338c1ef2.png" group-title="UK",[UK] Cartoonito *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27142
+#EXTINF:-1 tvg-id="CBBC" tvg-name="[UK] CBBC *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyZnJackaQv9zZzeWY_6AUy4ZUwRi_4zgFzmOQo3SY3uw.png" group-title="UK",[UK] CBBC *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27143
+#EXTINF:-1 tvg-id="CBSDRMA" tvg-name="[UK] Reality Xtra" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDrLFhY9EVIsgh-3VLaQkxrARcg_jr_Qp1I81GhzSbZjQ.png" group-title="UK",[UK] Reality Xtra
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27146
+#EXTINF:-1 tvg-id="CBSRELT" tvg-name="[UK] CBS reality *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZjI07OkL9fp8qYYN22Gt-bTFBd8aDKSy7_Z5HUZ9VvmHQ.png" group-title="UK",[UK] CBS reality *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27147
+#EXTINF:-1 tvg-id="C4HD" tvg-name="[UK] Channel 4 *" tvg-logo="http://redmonkeytv.com:8080/images/59f4a12ffaf9be92c3d287ed437b6551.png" group-title="UK",[UK] Channel 4 *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27149
+#EXTINF:-1 tvg-id="CH5" tvg-name="[UK] Channel 5 *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrM4uzVaYqf93F9UPTSxM0CzSiPRiMUHZ6XTbZ6zIPOIA.png" group-title="UK",[UK] Channel 5 *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27150
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="[UK] Clubland *" tvg-logo="http://redmonkeytv.com:8080/images/4de9360026c546e0cf7c0fbe0a99bd2e.png" group-title="UK",[UK] Clubland *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27153
+#EXTINF:-1 tvg-id="COMCEHD" tvg-name="[UK] Comedy Central *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OH44Yvy-a7UsbFxWF3neVNEH0i4O1JkQEDwYzMeW0LnrA.png" group-title="UK",[UK] Comedy Central *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27158
+#EXTINF:-1 tvg-id="COMCNX" tvg-name="[UK] Comedy Central Extra *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZguUBDzpRaEUHqnaWOEzg9fH-esKtWGKvxAUYBVQRm3cg.png" group-title="UK",[UK] Comedy Central Extra *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27159
+#EXTINF:-1 tvg-id="CIHD" tvg-name="[UK] Crime & Investigation *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OGT32r0GuJy1PwvH5FQEwu4X5LUfZ-tNIZD3jeOEsqyIA.png" group-title="UK",[UK] Crime & Investigation *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27160
+#EXTINF:-1 tvg-id="DAVEHD" tvg-name="[UK] Dave" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Tl0TV2s39wJ9yJ9yGRM-7I66TKQkAlgxT9KPnqKxqQZA.png" group-title="UK",[UK] Dave
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27161
+#EXTINF:-1 tvg-id="DISHIST" tvg-name="[UK] Discovery History" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxbyX6s9ozBoscwOA3wiMq8gy0euHuuLOxLGGgcy-miEQ.png" group-title="UK",[UK] Discovery History
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27163
+#EXTINF:-1 tvg-id="DAVEJV" tvg-name="[UK] Dave ja vu" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhgPjAhJmmRN9FCD9J3Nro9rqPRjDxFCtZNRGjRA6fUTHg.png" group-title="UK",[UK] Dave ja vu
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27164
+#EXTINF:-1 tvg-id="DISSCI" tvg-name="[UK] Discovery Science *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszvvttQxKrIRCD7kpTqjy-Is4UirHoumjsKYNXcpWd2Vg.png" group-title="UK",[UK] Discovery Science *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27165
+#EXTINF:-1 tvg-id="DITURBO" tvg-name="[UK] Discovery Turbo *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszfYaIq2y-yAbQSSYay2Bmp6CUQUqfTCtyxe81BmwBfFQ.png" group-title="UK",[UK] Discovery Turbo *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27168
+#EXTINF:-1 tvg-id="DISJRNE" tvg-name="[UK] Disney Junior *" tvg-logo="http://redmonkeytv.com:8080/images/bc7316929fe1545bf0b98d114ee3ecb8.png" group-title="UK",[UK] Disney Junior *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27171
+#EXTINF:-1 tvg-id="DXDME" tvg-name="[UK] Disney XD *" tvg-logo="http://redmonkeytv.com:8080/images/17a698cee2d2534b43b91d2169310f2e.png" group-title="UK",[UK] Disney XD *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27173
+#EXTINF:-1 tvg-id="DMAX2" tvg-name="[UK] DMAX *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyBOVjley5B7npaTJOygQrAKxCndmp-j9naNOjQgHIsx1w.png" group-title="UK",[UK] DMAX *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27174
+#EXTINF:-1 tvg-id="DRAMAUK" tvg-name="[UK] Drama *" tvg-logo="http://redmonkeytv.com:8080/images/ecdf40515938ee1850f6b91db84caef6.png" group-title="UK",[UK] Drama *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27175
+#EXTINF:-1 tvg-id="ETVINT" tvg-name="[UK] E! Entertainment *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZhkKeEVIu3KU_dTGWohfIxtaztw7Z7Ulc-TiJ6hBK_Epg.png" group-title="UK",[UK] E! Entertainment *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27176
+#EXTINF:-1 tvg-id="MORE4HD" tvg-name="[UK] More 4" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJd7fdEOsCPAkpFFbXub00klu60pZQ-plF3xlpgK8mJ-g.png" group-title="UK",[UK] More 4
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27177
+#EXTINF:-1 tvg-id="E4" tvg-name="[UK] E4 *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyYv2d8m5IYepJOONxl4kMlrFzjZoIsKLb_GgtBbbQaHg.png" group-title="UK",[UK] E4 *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27178
+#EXTINF:-1 tvg-id="EDEN" tvg-name="[UK] Eden" tvg-logo="http://redmonkeytv.com:8080/images/76eb2742dd544ffb57f99666e152dc45.png" group-title="UK",[UK] Eden
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27179
+#EXTINF:-1 tvg-id="FFOURHD" tvg-name="[UK] Film 4" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OFRsLs7vkaI98HbWTNAeU7mlON1TRivjCKxWPUeom0LIw.png" group-title="UK",[UK] Film 4
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27186
+#EXTINF:-1 tvg-id="FOODEUR" tvg-name="[UK] Food Network" tvg-logo="http://redmonkeytv.com:8080/images/c72e59c2b864ac651691ae0359a53ed5.png" group-title="UK",[UK] Food Network
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27187
+#EXTINF:-1 tvg-id="HIST2" tvg-name="[UK] History 2" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OFYxAy0Hv3hLB44o75frzEHoznwAdwTS6DmasQiXa8xVw.png" group-title="UK",[UK] History 2
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27192
+#EXTINF:-1 tvg-id="HISTEUH" tvg-name="[UK] History" tvg-logo="http://redmonkeytv.com:8080/images/ff3cdfc6eed71a1a8a1a5622dfef7f1d.png" group-title="UK",[UK] History
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27193
+#EXTINF:-1 tvg-id="HGTVPR" tvg-name="[UK] HGTV *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrD83F1lvYoqMKgPkblOCHeVTKDqHcY9plKHhUneExGdA.png" group-title="UK",[UK] HGTV *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27194
+#EXTINF:-1 tvg-id="HORROR" tvg-name="[UK] Legend" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhickByPvV9_PpDjfD7JreZ9I8qGn61xEzmBsGV768R18w.png" group-title="UK",[UK] Legend
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27196
+#EXTINF:-1 tvg-id="INVDISC" tvg-name="[UK] Investigation Discovery (ID)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEtjQ-ZofVg8K04JO5nbyTK8AyXCjuj44I5VaLBEuF6BA.png" group-title="UK",[UK] Investigation Discovery (ID)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27199
+#EXTINF:-1 tvg-id="KRANG" tvg-name="[UK] Kerrang!" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsx5A6CMhxRDd8FSICYF3LpO2zuup-CQn4RDhc5k726Wnw.png" group-title="UK",[UK] Kerrang!
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27207
+#EXTINF:-1 tvg-id="KISS" tvg-name="[UK] KISS UK" tvg-logo="http://redmonkeytv.com:8080/images/cf66bbba7e01cac7c1692a85a56ecda8.png" group-title="UK",[UK] KISS UK
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27208
+#EXTINF:-1 tvg-id="SKWITHD" tvg-name="[UK] Sky Witness *" tvg-logo="http://redmonkeytv.com:8080/images/56327040328c0756dfb2bcd121a6e883.png" group-title="UK",[UK] Sky Witness *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27210
+#EXTINF:-1 tvg-id="LONLIVE" tvg-name="[UK] London Live" tvg-logo="http://redmonkeytv.com:8080/images/2326d9533aba909a3161f88365d9db34.png" group-title="UK",[UK] London Live
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27211
+#EXTINF:-1 tvg-id="MAGIC" tvg-name="[UK] Magic *" tvg-logo="http://redmonkeytv.com:8080/images/dc6fb375fb2df9072cafa8027b7268f0.png" group-title="UK",[UK] Magic *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27212
+#EXTINF:-1 tvg-id="MTVEURO" tvg-name="[UK] MTV" tvg-logo="http://redmonkeytv.com:8080/images/9bf786096847dab587293ed4294b7776.png" group-title="UK",[UK] MTV
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27215
+#EXTINF:-1 tvg-id="MTVBSE" tvg-name="[UK] MTV Base" tvg-logo="http://redmonkeytv.com:8080/images/32c5b797ec9e07c25b94e66b549d1598.png" group-title="UK",[UK] MTV Base
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27217
+#EXTINF:-1 tvg-id="MTVCLS" tvg-name="[UK] MTV Classic" tvg-logo="http://redmonkeytv.com:8080/images/d67bda35fb148b3cf981a73c6c4679f5.png" group-title="UK",[UK] MTV Classic
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27218
+#EXTINF:-1 tvg-id="MTVHITS" tvg-name="[UK] MTV Hits" tvg-logo="http://redmonkeytv.com:8080/images/2cb78ce399ee63572363092175c01498.png" group-title="UK",[UK] MTV Hits
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27220
+#EXTINF:-1 tvg-id="NATGWMC" tvg-name="[UK] Nat Geo Wild *" tvg-logo="http://redmonkeytv.com:8080/images/4752840ae2f98bc3de97575c039562d3.png" group-title="UK",[UK] Nat Geo Wild *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27224
+#EXTINF:-1 tvg-id="NICKJR1" tvg-name="[UK] Nick Jr" tvg-logo="http://redmonkeytv.com:8080/images/ba83e51901fc2c5014ec8f602f45d9f7.png" group-title="UK",[UK] Nick Jr
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27227
+#EXTINF:-1 tvg-id="NICKJR2" tvg-name="[UK] Nick Jr Too" tvg-logo="http://redmonkeytv.com:8080/images/c9e09704785eb763167a8fb14113234c.png" group-title="UK",[UK] Nick Jr Too
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27229
+#EXTINF:-1 tvg-id="INNPBS" tvg-name="[UK] PBS America" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypMFdLXN5KChAsjqB9qsGGL.png" group-title="UK",[UK] PBS America
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27232
+#EXTINF:-1 tvg-id="PICKTV" tvg-name="[UK] PICK" tvg-logo="http://redmonkeytv.com:8080/images/d925af7ee84b16b7733721f1970875e9.png" group-title="UK",[UK] PICK
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27233
+#EXTINF:-1 tvg-id="QUEST" tvg-name="[UK] QUEST" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OF_Q3RbXWt1196V927vKKFPJMWXly4COlvi55XK8Mtb_Q.png" group-title="UK",[UK] QUEST
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27234
+#EXTINF:-1 tvg-id="QREDUK1" tvg-name="[UK] Quest Red +1" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yq8rJ6DNjH3fWyaEbpIG0y-aqcOd8lGotsNtggZbQl3Tg.png" group-title="UK",[UK] Quest Red +1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27235
+#EXTINF:-1 tvg-id="SKYCRHD" tvg-name="[UK] Sky Crime *" tvg-logo="http://redmonkeytv.com:8080/images/39afd8da24a96df1c5088e440c8bfa01.png" group-title="UK",[UK] Sky Crime *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27237
+#EXTINF:-1 tvg-id="RTEJRTV" tvg-name="[UK] RTE JUNIOR *" tvg-logo="http://redmonkeytv.com:8080/images/d2e15bc97c5d367606eec24e7178f056.png" group-title="UK",[UK] RTE JUNIOR *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27238
+#EXTINF:-1 tvg-id="SKYCMSD" tvg-name="[UK] Sky Comedy *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoRmwOJ_DKacrSPcX3WUGNTn8-fFWhreSpnyXlbSU86MA.png" group-title="UK",[UK] Sky Comedy *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27239
+#EXTINF:-1 tvg-id="RTE1HD" tvg-name="[UK] RTE One" tvg-logo="http://redmonkeytv.com:8080/images/3997f6f668661c73ddaf9c27f7b7007e.png" group-title="UK",[UK] RTE One
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27240
+#EXTINF:-1 tvg-id="RTE2HD" tvg-name="[UK] RTE Two" tvg-logo="http://redmonkeytv.com:8080/images/a4d1ab202900cb7f769b5ab107f22283.png" group-title="UK",[UK] RTE Two
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27241
+#EXTINF:-1 tvg-id="S4CD" tvg-name="[UK] S4C *" tvg-logo="http://redmonkeytv.com:8080/images/0c04e3a7b35acf663f521b463b7e620e.png" group-title="UK",[UK] S4C *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27242
+#EXTINF:-1 tvg-id="SCINSEH" tvg-name="[UK] SKY *Cinema Select *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OE9pyySHZOVsf4RPxVqsb9IVAodupleZ5qICbVRiDqflw.png" group-title="UK",[UK] SKY *Cinema Select *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27243
+#EXTINF:-1 tvg-id="SKYAT" tvg-name="[UK] Sky Atlantic *" tvg-logo="http://redmonkeytv.com:8080/images/8efcfd1fb65835e03b3f40d0f00cb870.png" group-title="UK",[UK] Sky Atlantic *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27245
+#EXTINF:-1 tvg-id="SCINACH" tvg-name="[UK] Sky *Cinema Action" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OH4H3qAunX1sK61toowi48zvbEFEnI-JentHAQLdZ1gMw.png" group-title="UK",[UK] Sky *Cinema Action
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27246
+#EXTINF:-1 tvg-id="SCINCOH" tvg-name="[UK] Sky *Cinema Comedy" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OHPbzL-znRXhkZNZrlGUtj2lADVEM5H2Ibrihr6Gi0WiQ.png" group-title="UK",[UK] Sky *Cinema Comedy
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27247
+#EXTINF:-1 tvg-id="SCINTHH" tvg-name="[UK] Sky *Cinema Thriller" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyArfwJ3w2LsRskBYvR_oV8gk9BqB3hla-l37_9-L8m6ZA.png" group-title="UK",[UK] Sky *Cinema Thriller
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27248
+#EXTINF:-1 tvg-id="SCINDRA" tvg-name="[UK] Sky *Cinema Drama" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyIkAMPM20dA3uCP5FiMrFtaDrQBqaLQhnzcUcmKSZphQ.png" group-title="UK",[UK] Sky *Cinema Drama
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27250
+#EXTINF:-1 tvg-id="SCINFAH" tvg-name="[UK] Sky *Cinema Family" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OErh8NdqBOgbBfHi7NsDchB3mOPUnlTN5qH2ltoehZkCw.png" group-title="UK",[UK] Sky *Cinema Family
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27251
+#EXTINF:-1 tvg-id="SCINPRE" tvg-name="[UK] Sky *Cinema Premiere *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswuqz-R8IpPNuaHRdhy6nlqGuZwoddeCguJeXtOsT-7mg.png" group-title="UK",[UK] Sky *Cinema Premiere *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27253
+#EXTINF:-1 tvg-id="SCINSFH" tvg-name="[UK] Sky *Cinema Sci-Fi Horror" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyHM0PDtOfq98DhA8Bm5hFw8OmnQWlq4x2dK1APoRdzEg.png" group-title="UK",[UK] Sky *Cinema Sci-Fi Horror
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27254
+#EXTINF:-1 tvg-id="SCINANI" tvg-name="[UK] Sky *Cinema Action (BK)" tvg-logo="http://redmonkeytv.com:8080/images/2e0bbb26f371283fd834322e7274ee35.png" group-title="UK",[UK] Sky *Cinema Action (BK)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27255
+#EXTINF:-1 tvg-id="SCINGRE" tvg-name="[UK] Sky *Cinema Greats" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszTj0mcaq08XWJ1U7SHKbATJZpGK7PKakSE9H_s0nbz-Q.png" group-title="UK",[UK] Sky *Cinema Greats
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27262
+#EXTINF:-1 tvg-id="SKY1HD" tvg-name="[UK] Sky One" tvg-logo="http://redmonkeytv.com:8080/images/b5991851ade2cf072f6e4ebb18e3e278.png" group-title="UK",[UK] Sky One
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27268
+#EXTINF:-1 tvg-id="SKYREP" tvg-name="[UK] Sky Two" tvg-logo="http://redmonkeytv.com:8080/images/33463fb132c6ef07df43c1884ec90960.png" group-title="UK",[UK] Sky Two
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27270
+#EXTINF:-1 tvg-id="SONYCUK" tvg-name="[UK] Sony Channel" tvg-logo="http://redmonkeytv.com:8080/images/1a121318128dd37696ef1c8f421ee264.png" group-title="UK",[UK] Sony Channel
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27271
+#EXTINF:-1 tvg-id="SKYDOC" tvg-name="[UK] Sky Documentaries *" tvg-logo="http://redmonkeytv.com:8080/images/b6b2b409348a349a8dcba3ce8ccae667.png" group-title="UK",[UK] Sky Documentaries *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27273
+#EXTINF:-1 tvg-id="SONYMOV" tvg-name="[UK] Sony Movie" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLezK_RMkPUZpoE-dOZ2giwRALUVLcgKt9RFfu0vYkVSQ.png" group-title="UK",[UK] Sony Movie
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27274
+#EXTINF:-1 tvg-id="SYFYUHD" tvg-name="[UK] Syfy" tvg-logo="http://redmonkeytv.com:8080/images/54ad341efee4737b060379574621665e.png" group-title="UK",[UK] Syfy
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27277
+#EXTINF:-1 tvg-id="TCMSPHD" tvg-name="[UK] TCM" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumuRrsWcAe7CAU_46iPhPi7Up__8DDg6qnV0mNMJ7P2q8g.png" group-title="UK",[UK] TCM
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27279
+#EXTINF:-1 tvg-id="TG4" tvg-name="[UK] TG4" tvg-logo="http://redmonkeytv.com:8080/images/i9R6cn6GUV60ISnOqGZjZxyOoubiUdPFIvgi3x0l-yhd_y7GTGtI_CAvk_v8V_ZiJUjosne6JHRhRLKn9yiUtCoFIH1ans9RZVbGqnVmKAQ.png" group-title="UK",[UK] TG4
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27280
+#EXTINF:-1 tvg-id="TINYPOP" tvg-name="[UK] Tiny POP" tvg-logo="http://redmonkeytv.com:8080/images/cfd2d0cf303310b7b150c8347c31d9b7.png" group-title="UK",[UK] Tiny POP
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27282
+#EXTINF:-1 tvg-id="TLCEURO" tvg-name="[UK] TLC" tvg-logo="http://redmonkeytv.com:8080/images/765f4ed752f526851d124346ed9dc52d.png" group-title="UK",[UK] TLC
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27283
+#EXTINF:-1 tvg-id="TALKPIC" tvg-name="[UK] Talking Pictures" tvg-logo="http://redmonkeytv.com:8080/images/d288df074c7d67107f9bb2328f39f42c.png" group-title="UK",[UK] Talking Pictures
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27286
+#EXTINF:-1 tvg-id="QREDUK" tvg-name="[UK] Quest Red *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypW_Szrq3QqiyKGSy6cEtCmYgGlEPeS7CmnfAnRZ4g2Hw.png" group-title="UK",[UK] Quest Red *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27289
+#EXTINF:-1 tvg-id="VH1EUR" tvg-name="[UK] VH1" tvg-logo="http://redmonkeytv.com:8080/images/68816fc6ece5f0baea9baf71301fa99e.png" group-title="UK",[UK] VH1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27290
+#EXTINF:-1 tvg-id="W.uk" tvg-name="[UK] Watch *" tvg-logo="http://redmonkeytv.com:8080/images/22079eba6a14f2936f095f3d3cf64177.png" group-title="UK",[UK] Watch *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27292
+#EXTINF:-1 tvg-id="YESTDAY" tvg-name="[UK] Yesterday *" tvg-logo="http://redmonkeytv.com:8080/images/b5da91083c6ae606b4c534063e401ce7.png" group-title="UK",[UK] Yesterday *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27293
+#EXTINF:-1 tvg-id="BBC1" tvg-name="[UK] BBC one*" tvg-logo="http://redmonkeytv.com:8080/images/55ea0d4e125426190be3505b30379a07.png" group-title="UK",[UK] BBC one*
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27300
+#EXTINF:-1 tvg-id="BBC2" tvg-name="[UK] BBC two *" tvg-logo="http://redmonkeytv.com:8080/images/2209cb9bf06fbae6522efaeb8e146a91.png" group-title="UK",[UK] BBC two *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27301
+#EXTINF:-1 tvg-id="BBCETEU" tvg-name="[UK] BBC Entertainment" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_Tp0mMlU2a-LyjgDmdWq3-VVUxj8zerJsPvueeKOrSIELeCrIG5VZBFt3ywElnxaSIE.png" group-title="UK",[UK] BBC Entertainment
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27303
+#EXTINF:-1 tvg-id="SART1HD" tvg-name="[UK] Sky Arts" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhhnKTHkSe1GfaeR3DJ_Ic7wJZGegT67SfnfXdHytL5Arg.png" group-title="UK",[UK] Sky Arts
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27307
+#EXTINF:-1 tvg-id="ITVMNF" tvg-name="[UK] ITV 1" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDHlUXbgLA1DZc5jeSwMcVB1enMu1DOARuADesYy6nbGw.png" group-title="UK",[UK] ITV 1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27308
+#EXTINF:-1 tvg-id="ITV2" tvg-name="[UK] ITV 2" tvg-logo="http://redmonkeytv.com:8080/images/6390ea8292b3f7e94f3bf8122dd15b84.png" group-title="UK",[UK] ITV 2
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27309
+#EXTINF:-1 tvg-id="ITVTHREE" tvg-name="[UK] ITV 3" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhj-ljF7ukb1t0KsEewBNO6nufTroY8gKRvzjXIK_CRTcQ.png" group-title="UK",[UK] ITV 3
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27310
+#EXTINF:-1 tvg-id="ITV4HDV" tvg-name="[UK] ITV 4" tvg-logo="http://redmonkeytv.com:8080/images/d3281bab52b0010d174ddc3e56a29e4c.png" group-title="UK",[UK] ITV 4
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27311
+#EXTINF:-1 tvg-id="ITVBE" tvg-name="[UK] ITV BE*" tvg-logo="http://redmonkeytv.com:8080/images/760ce7547caf172117c62e593e422c0e.png" group-title="UK",[UK] ITV BE*
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27312
+#EXTINF:-1 tvg-id="4SEVEN" tvg-name="[UK] 4seven" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_TpXk7omYwdKki-F0G-qBD3DRbBnX2_LMkXTnzCzSwaSnNT-JnZiMFy6N35SLESrL-o.png" group-title="UK",[UK] 4seven
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27321
+#EXTINF:-1 tvg-id="NICTOON" tvg-name="[UK] Nicktoons (BK)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_Zg62q6qNkokinjfQJE7oAxXeimmGEfhoaMiO21iFUPrZg.png" group-title="UK",[UK] Nicktoons (BK)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27342
+#EXTINF:-1 tvg-id="SMOVACT" tvg-name="[UK] Sony Movies Action *" tvg-logo="http://redmonkeytv.com:8080/images/24422e311efb920e407a67df38383563.png" group-title="UK",[UK] Sony Movies Action *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27346
+#EXTINF:-1 tvg-id="5SELECT" tvg-name="[UK] 5 Select" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyD0fMBct7O6WFJyPrbaxwcGgjKIS6ykzYicqU3xLPYBvQ.png" group-title="UK",[UK] 5 Select
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27354
+#EXTINF:-1 tvg-id="5USA" tvg-name="[UK] 5 USA *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDIyerXprmKm4sr-uWPz7bV9Gex3Im064Kcs0Q7bMrqAA.png" group-title="UK",[UK] 5 USA *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27365
+#EXTINF:-1 tvg-id="CHALL" tvg-name="[UK] Challenge *" tvg-logo="http://redmonkeytv.com:8080/images/e6061e1fb03e07d58938394f246054b8.png" group-title="UK",[UK] Challenge *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27370
+#EXTINF:-1 tvg-id="REALLY" tvg-name="[UK] Really" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhjMC-64U1r-b-fHJFeF1tqB7X0Stj0rMDm-t4WU-064eA.png" group-title="UK",[UK] Really
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27372
+#EXTINF:-1 tvg-id="HORSEC" tvg-name="[UK] Horse & Country" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqMIZ5QP2zcxIYHv9ftNOVgVPeL4fKMSjxVz_SIAEFppQ.png" group-title="UK",[UK] Horse & Country
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27376
+#EXTINF:-1 tvg-id="FOODNP1" tvg-name="[UK] Food Network +1" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCAxhI-zEOnyL75SN6XLuRKb0wBqd6dzlBfwksyqQzYKQ.png" group-title="UK",[UK] Food Network +1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27377
+#EXTINF:-1 tvg-id="GOLDE" tvg-name="[UK] Gold" tvg-logo="http://redmonkeytv.com:8080/images/cdd9c819fcc3c0314a3f0511169e985a.png" group-title="UK",[UK] Gold
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27379
+#EXTINF:-1 tvg-id="BLAZUK" tvg-name="[UK] BLAZE *" tvg-logo="http://redmonkeytv.com:8080/images/cf31d5a57552300efb9f1946e6bdc17e.png" group-title="UK",[UK] BLAZE *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27380
+#EXTINF:-1 tvg-id="WWE" tvg-name="[UK] WWE *" tvg-logo="http://redmonkeytv.com:8080/images/fd6c7459a192d9d9cecf93547d4a2a1d.png" group-title="UK",[UK] WWE *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27382
+#EXTINF:-1 tvg-id="SKYNTSD" tvg-name="[UK] Sky Nature *" tvg-logo="http://redmonkeytv.com:8080/images/b5b5135c12ce00b9e2ade19ad3ed0b59.png" group-title="UK",[UK] Sky Nature *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27385
+#EXTINF:-1 tvg-id="QREDUK" tvg-name="[UK] Quest Red" tvg-logo="http://redmonkeytv.com:8080/images/236953a69af59e0bab992d890fefeae0.png" group-title="UK",[UK] Quest Red
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27416
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="[UK] C ITV *" tvg-logo="http://redmonkeytv.com:8080/images/d500e5035f023f2811e6072fdffa4c54.png" group-title="UK",[UK] C ITV *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27431
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="[UK] National Geographic" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_TpCsrhykjTWgTKgNT5q0adlqgfngTK3_5JcWrkd6rC2oXMpS6ag9BXfRdjskHjCvX4.png" group-title="UK",[UK] National Geographic
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27441
+#EXTINF:-1 tvg-id="DISCIRE" tvg-name="[UK] Discovery" tvg-logo="http://redmonkeytv.com:8080/images/a21e1115fe9a903264634252d1dec56b.png" group-title="UK",[UK] Discovery
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27443
+#EXTINF:-1 tvg-id="TCGERM" tvg-name="[UK] Travel Channel" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKIljXXR-1lO2ij-FMPXmagnmwaYIeLN2J7ROXwpJ9tLg.png" group-title="UK",[UK] Travel Channel
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27448
+#EXTINF:-1 tvg-id="NICK" tvg-name="[UK] Nickelodeon" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqMSuYpVwD3aN-tO9-t0MC1pAqxouc3XkEdXYMpS82VSw.png" group-title="UK",[UK] Nickelodeon
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27456
+#EXTINF:-1 tvg-id="NICKTME" tvg-name="[UK] NickToons" tvg-logo="http://redmonkeytv.com:8080/images/31bd0bfdea3e62089a3872cb4f6ae6b9.png" group-title="UK",[UK] NickToons
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27457
+#EXTINF:-1 tvg-id="POPMXUK" tvg-name="[UK] POP MAX" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDZFeM_2_Qz_vBh21fMQZpW13acrVxRpX6TiTV558a1Pg.png" group-title="UK",[UK] POP MAX
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27462
+#EXTINF:-1 tvg-id="POP" tvg-name="[UK] POP" tvg-logo="http://redmonkeytv.com:8080/images/060569c5c8d0467ff94f02f4e9d06a50.png" group-title="UK",[UK] POP
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27465
+#EXTINF:-1 tvg-id="CBEBIES" tvg-name="[UK] BBC CBeebies *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKJhZYYD_b23suzqhRWqQGLqSHQX2Udm2TMuRZ7XBveNg.png" group-title="UK",[UK] BBC CBeebies *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27469
+#EXTINF:-1 tvg-id="" tvg-name="[UK] WFC" tvg-logo="http://redmonkeytv.com:8080/images/c64fed3941091d3805decd55cb388ee8.png" group-title="UK",[UK] WFC
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27473
+#EXTINF:-1 tvg-id="MTVMSUK" tvg-name="[UK] MTV Music" tvg-logo="http://redmonkeytv.com:8080/images/4829b316210019b6ad7a63a393fb7db8.png" group-title="UK",[UK] MTV Music
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27474
+#EXTINF:-1 tvg-id="BOX" tvg-name="[UK] The Box" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxCL0vA-9lHrfD6hBmUY32BrFTk700ft8NBr9WMRcA49Q.png" group-title="UK",[UK] The Box
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27480
+#EXTINF:-1 tvg-id="ROK.uk" tvg-name="[UK] ROK" tvg-logo="http://redmonkeytv.com:8080/images/b04ba5be484ccf7de83118df888151b1.png" group-title="UK",[UK] ROK
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27483
+#EXTINF:-1 tvg-id="CLUBINT" tvg-name="[UK] Club MTV *" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwL4UBO8UHPNm0B1y7BnuXz_ikcZo-TbltBMfZYRNmVuag.png" group-title="UK",[UK] Club MTV *
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27484
+#EXTINF:-1 tvg-id="VH1CLEU" tvg-name="[UK] VH1 Classic" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyABVO7aXdwpHxDkR5GKRqLSS1GKVMJ3EQB_EsgOHXZy-A.png" group-title="UK",[UK] VH1 Classic
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27486
+#EXTINF:-1 tvg-id="MTV90s.uk" tvg-name="[UK] MTV 90s" tvg-logo="http://redmonkeytv.com:8080/images/59384343fca7b415302ad2edfb7553b8.png" group-title="UK",[UK] MTV 90s
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27487
+#EXTINF:-1 tvg-id="RTENEWS" tvg-name="[UK] RTE News" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Ty-eqEgPfMlMvSd63DrLqfXjYFHOrnEBqMQQnRwh6W6A.png" group-title="UK",[UK] RTE News
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/27496
+#EXTINF:-1 tvg-id="SSPONED" tvg-name="[UK] Sky Sports News" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEDTSJcK4P_zy_IqqQ4Kq2Ru80XI9HtaQAi357h50L-_w.png" group-title="UK",[UK] Sky Sports News
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46525
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="[UK] Sky Sports Main Event (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yr74D8GtxYNQb5DbyCfHhEk5wQqcFj-cC1xPfef3crzVQ.png" group-title="UK",[UK] Sky Sports Main Event (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46526
+#EXTINF:-1 tvg-id="SSPOMEH" tvg-name="[UK] Sky Sports Main Event (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhj8FRyOfZMsv9BDySbfuX1kHdNmWbztlPL__gzccsUmsQ.png" group-title="UK",[UK] Sky Sports Main Event (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46527
+#EXTINF:-1 tvg-id="SSPOFBH" tvg-name="[UK] Sky Sports Football (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrhm80guVfoDWT6Mh0qadRFrt6gNHplx1v-eTfHi02mmA.png" group-title="UK",[UK] Sky Sports Football (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46528
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="[UK] Sky Sports Premier League (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIYNgd4ftR-i3yKxcW-JPD3d214H1lAZhPIU27hRLx99w.png" group-title="UK",[UK] Sky Sports Premier League (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46529
+#EXTINF:-1 tvg-id="SSPOPLH" tvg-name="[UK] Sky Sports Premier League (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJ6uBNYIqegfYC_65SlkFC9g3p-zmopbPtHyiFRuLrZYg.png" group-title="UK",[UK] Sky Sports Premier League (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46530
+#EXTINF:-1 tvg-id="SSPOF1H" tvg-name="[UK] Sky Sports F1 (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJery_mDHX3uAJ_vinb240ofUDeL-WpQJR9r9vqoIr99A.png" group-title="UK",[UK] Sky Sports F1 (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46531
+#EXTINF:-1 tvg-id="SSPOAHD" tvg-name="[UK] Sky Sports Arena (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoknXlNvGnIMdOjdIJfP7TLyvzEyWhYDPzKNHiqOo1Jbw.png" group-title="UK",[UK] Sky Sports Arena (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46532
+#EXTINF:-1 tvg-id="SSPOARH" tvg-name="[UK] Sky Sports Arena (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqwnWEGe6IxCuCbbJZEuqe4_6RJSzrKzsZ1vhqArhoNEQ.png" group-title="UK",[UK] Sky Sports Arena (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46533
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="[UK] SkySports Action (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yroFYRpM22tn2_swGICZ4xxCs_Y3ULx0DSdt-7W2WuZxw.png" group-title="UK",[UK] SkySports Action (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46534
+#EXTINF:-1 tvg-id="SSPOACD" tvg-name="[UK] Sky Sports Action (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyAg7YanIGQ6Y3dkf1M83Hy7H_kyaBNN2auldslzdhKuVA.png" group-title="UK",[UK] Sky Sports Action (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46535
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="[UK] Sky Sports Golf (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszZIzZMoXEbI9nZ8Bzbbipc5zcWoaT_VuXpSJJGPeZiOA.png" group-title="UK",[UK] Sky Sports Golf (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46536
+#EXTINF:-1 tvg-id="SSPOGOD" tvg-name="[UK] Sky Sports Golf (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OErXc5TosCkgbCDqynqIGdmi-GrHKiYk705QKXD8oYaog.png" group-title="UK",[UK] Sky Sports Golf (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46537
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="[UK] Sky Sports Cricket (B)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp3KQvv7RJBc7oRcywmkMOluIDmiZtd3RdmMDKl_d3m9w.png" group-title="UK",[UK] Sky Sports Cricket (B)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46538
+#EXTINF:-1 tvg-id="SSPOCRH" tvg-name="[UK] Sky Sports Cricket (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyB3-7xmIuOeQ213xrjRJxsGkajdliwFUHGqXIDg7KXYcA.png" group-title="UK",[UK] Sky Sports Cricket (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46539
+#EXTINF:-1 tvg-id="SSPOMXH" tvg-name="[UK] Sky Sports Mix (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqtZUbhMunmt0ipxCUzXUsJtvVi7RNX4MtaQAkofu8XBg.png" group-title="UK",[UK] Sky Sports Mix (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46540
+#EXTINF:-1 tvg-id="SSPORAC" tvg-name="[UK] Sky sports racing (A)" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgAbIXCFaPHiiLC9SerT98gQ7yw3K4lEG09LQvJTFQVLw.png" group-title="UK",[UK] Sky sports racing (A)
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46541
+#EXTINF:-1 tvg-id="BTSportBoxOffice.uk" tvg-name="[UK] BT Sport Box Office [Live Events]" tvg-logo="http://redmonkeytv.com:8080/images/f2b663db46c29185488b773fce85613e.png" group-title="UK",[UK] BT Sport Box Office [Live Events]
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/46672
+#EXTINF:-1 tvg-id="CNNEUHD" tvg-name="[UK] CNN" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumslElBGkaJA40d6k617PUSCtkGuuxn6iWKpPiuZQ0Yy6w.png" group-title="UK",[UK] CNN
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/49199
+#EXTINF:-1 tvg-id="ESUK1HD" tvg-name="[UK] Eurosport 1" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OFk2J42iZCxsFLuw9VFaYbJxr76cEz-Hkt_WwRqYNjjWw.png" group-title="UK",[UK] Eurosport 1
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/220475
+#EXTINF:-1 tvg-id="ESUK2" tvg-name="[UK] Eurosport 2" tvg-logo="http://redmonkeytv.com:8080/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswqIqKWC1mj1A2ZeS-TMIjm3MszSWwSPZxE4zWCOTqAVg.png" group-title="UK",[UK] Eurosport 2
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/220476
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="[SPO**] Bein Sport English 03*" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 03*
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12890
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="[SPO**] Bein Sport English 01" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 01
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12892
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="[SPO**] Bein Sport English 01*" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 01*
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12893
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="[SPO**] Bein Sport English 02" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 02
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12894
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="[SPO**] Bein Sport English 02*" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 02*
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12895
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="[SPO**] Bein Sport English 03" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_ToITD6IRWk07Ox_4iG1sSG8CPZLSwOjx8Cgt3FwBxzy3PU_8sgqfhd-2aMgshhFWK8.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 03
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/12896
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="[SPO**] Bein Sport English 01**" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 01**
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/26261
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="[SPO**] Bein Sport English 02**" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 02**
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/26262
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="[SPO**] Bein Sport English 03**" tvg-logo="http://redmonkeytv.com:8080/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 03**
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/26289
+#EXTINF:-1 tvg-id="" tvg-name="[SPO**] Bein Sport English 1 #" tvg-logo="http://redmonkeytv.com:8080/images/4Ws0bfy-XXXeIXjlVNKukHRbzvBLWCDqkCIZYB81lQyDCKYxWAvaRe3qlwwW3KihnTyiO2wLfF_CmRLRHKHkQQ.png" group-title="beIN Sport English + French",[SPO**] Bein Sport English 1 #
+http://redmonkeytv.com:8080/susanalivadorgoog123/qRSxkxUrpN/110765
